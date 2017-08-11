@@ -1,0 +1,21 @@
+@import 'scss/variables';
+@import 'scss/mixins';
+@import 'scss/colors';
+
+body{
+  background-color: black;
+}
+
+textarea{
+  font-family: Monaco, "Lucida Console", monospace;
+}
+
+.background{
+  background-color: red;
+}
+
+.jumbotron{
+  -webkit-border-radius:0;
+  -moz-border-radius:0;
+  border-radius:0;
+}
